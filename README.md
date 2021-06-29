@@ -11,5 +11,5 @@ by [Supriyo Paul][sup]
 - Delete your blog
 - Share your blog
 
-[//]:
+[//]:#
    [sup]: <https://www.facebook.com/dustu.kkr>
