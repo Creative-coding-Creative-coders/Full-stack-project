@@ -12,4 +12,4 @@ by [Supriyo Paul][sup]
 - Share your blog
 
 [//]:#
-   [sup]: <https://www.facebook.com/dustu.kkr>
+   [sup]: <https://github.com/Supriyo-455>
